@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrevlc" alt="andrevlc" /></a> </p>
 
-- 🔭 I’m currently working on **Trybeer**
-
 - 📫 How to reach me **andrevezi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
